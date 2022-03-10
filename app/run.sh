@@ -10,3 +10,4 @@ npm install css-loader style-loader -g
 npm init
 #install local
 npm install css-loader style-loader . -g
+webpack ./runoob1.js ./bundle.js
