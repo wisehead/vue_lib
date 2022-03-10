@@ -1,1 +1,1 @@
-document.write("It works.");
+(()=>{var r={180:r=>{r.exports="It works from runoob2.js."}},o={};document.write(function t(e){var s=o[e];if(void 0!==s)return s.exports;var n=o[e]={exports:{}};return r[e](n,n.exports,t),n.exports}(180)),document.write("It works.")})();
